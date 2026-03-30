@@ -1,15 +1,15 @@
-# PRD - SENTINEL.DOMINION v4.0
+# Ürün Gereksinim Belgesi (PRD) - Sentinel Dominion
 
-## 1. Proje Vizyonu
-Afet anlarında karmaşık lojistik verileri yapay zeka ile analiz ederek, karar vericilere saniyeler içinde askeri hassasiyette operasyonel stratejiler sunmak.
+### Vizyon
+Afet lojistiğini "tahmin"den çıkarıp "veriye dayalı tam hakimiyet"e dönüştürmek.
 
-## 2. Hedef Kitle
-- AFAD ve Kızılay koordinasyon ekipleri.
-- Yerel yönetim kriz merkezleri.
-- Lojistik operasyon yöneticileri.
+### Temel Özellikler
+1. **Dinamik Veri Girişi:** Şehir, afet türü ve aciliyet seviyesi girişi.
+2. **AI Analiz Motoru:** Gemini API ile lojistik strateji üretimi.
+3. **Görsel Harita:** Leaflet.js ile olay yerinin ve rotaların görselleştirilmesi.
+4. **Responsive Tasarım:** Sahadaki ekipler için mobil uyumlu arayüz.
 
-## 3. Temel Özellikler (MVP)
-- **81 İl Desteği:** Türkiye genelinde lokasyon bazlı analiz.
-- **Yapay Zeka Entegrasyonu:** Google Gemini 1.5 Flash ile gerçek zamanlı strateji üretimi.
-- **İnteraktif Harita:** Leaflet JS ile görselleştirilmiş operasyon sahası.
-- **Askeri Standartta Raporlama:** Net, emir kipiyle yazılmış, uygulanabilir lojistik direktifler.
+### Teknik Gereksinimler
+- Google AI Studio API Key (Gemini Entegrasyonu)
+- Frontend: HTML5, Tailwind CSS, JavaScript (ES6+)
+- Harita Katmanı: Leaflet API
