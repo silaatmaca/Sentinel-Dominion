@@ -1,7 +1,7 @@
-# Kullanıcı Akışı (User Flow)
+# Kullanıcı Akışı (User Flow) - Sentinel Dominion
 
-1. **Giriş:** Kullanıcı SENTINEL.DOMINION ana ekranına erişir.
-2. **Seçim:** Operasyon yapılacak şehir (Örn: Hatay) manuel olarak girilir.
-3. **Senaryo:** Afet türü (Deprem, Sel vb.) menüden seçilir.
-4. **Analiz:** "Strateji Üret" butonuna basılır; harita ilgili bölgeye odaklanır.
-5. **Sonuç:** Yapay zeka, saniyeler içinde "Stratejik Öncelikler", "Tahliye Rotaları" ve "İkmal Noktaları" raporunu ekrana yansıtır.
+1. **Giriş:** Kullanıcı Sentinel Dominion web arayüzünü açar.
+2. **Parametre Seçimi:** Afet yaşanan bölgeyi seçer ve "Yaralı/İhtiyaç" verilerini girer.
+3. **Analiz Tetikleme:** "Stratejik Plan Oluştur" butonuna basılır.
+4. **AI İşleme:** Veriler Gemini API'ye gönderilir; model lojistik optimizasyon yapar.
+5. **Sonuç:** Kullanıcı harita üzerinde işaretlenmiş güvenli bölgeleri ve yanında AI tarafından yazılmış "Acil Operasyon Planı"nı görür.
