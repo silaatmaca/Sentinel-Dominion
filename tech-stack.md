@@ -1,14 +1,8 @@
-# Teknoloji Yığını (Tech Stack)
+# Teknoloji Yığını (Tech Stack) - Sentinel Dominion
 
-### Frontend (Arayüz)
-- **HTML5 & CSS3:** Temel yapı.
-- **Tailwind CSS:** Modern, hızlı ve responsive tasarım.
-- **Orbitron & JetBrains Mono:** Operasyonel/Askeri tipografi.
-
-### Maps (Harita)
-- **Leaflet JS:** Hafif ve performanslı harita katmanı.
-- **OpenStreetMap:** Açık kaynaklı harita verisi.
-
-### AI (Yapay Zeka)
-- **Google Gemini 1.5 Flash:** Hızlı ve düşük gecikmeli metin analizi.
-- **REST API:** Yapay zeka servis entegrasyonu.
+### Neden Bu Teknolojileri Seçtik?
+- **Google Gemini 1.5 Flash:** Düşük gecikme süresi ve yüksek lojistik analiz kapasitesi nedeniyle seçildi.
+- **JavaScript (Vanilla):** Hızlı prototipleme ve tarayıcı tabanlı harita performansı için tercih edildi.
+- **Tailwind CSS:** Modern ve profesyonel bir UI/UX tasarımını hızlıca oluşturmak için kullanıldı.
+- **Leaflet.js:** Açık kaynaklı ve hafif bir harita kütüphanesi olduğu için entegre edildi.
+- **Lovable:** Projeyi saniyeler içinde canlıya almak için kullanıldı.
