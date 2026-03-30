@@ -7,8 +7,8 @@ Afet anlarında lojistik koordinasyon eksikliği ve yavaş karar alma süreçler
 **Sentinel Dominion**, bir **Lojistik Yönetimi** öğrencisinin vizyonuyla geliştirilmiş, yapay zeka destekli bir karar destek sistemidir. Gemini API kullanarak karmaşık afet verilerini anlamlı bir "İnsani Lojistik Planı"na dönüştürür.
 
 ## Canlı Demo
-- **Yayın Linki:** [BURAYA LOVABLE LİNKİNİ YAPIŞTIR]
-- **Demo Video:** [BURAYA LOOM LİNKİNİ YAPIŞTIR]
+- **Yayın Linki:** [https://dominion-dreamer.lovable.app]
+- **Demo Video:** [https://www.loom.com/share/8c7147a88791474aac7deb03c8fc4afe]
 
 ## Kullanılan Teknolojiler
 - **AI:** Google Gemini 1.5 Flash (via Google AI Studio)
